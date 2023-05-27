@@ -1,0 +1,23 @@
+img{
+    width: 250px;
+    height: 170px;
+    padding: 10px;
+    display: inline;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.images123{
+    text-align: center;
+
+}
+p{
+    color: green;
+    font-family: 'Fraunces', serif;
+}
+ul{
+    color: green;
+    list-style: none;
+    font-family: 'Fraunces', serif;
+}
